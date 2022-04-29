@@ -6,7 +6,7 @@ A passionate young developer located in India 🇮🇳. I'm pursuing B.Tech in c
 
 - 🔭 I’m currently banging my head! 😅
 - 🌱 I’m currently learning ... I know nothing so, everything! 😲
-- 🤔 I’m looking for help with bulding enterprise grade applications.
+- 🤔 I’m looking for help with building enterprise grade applications.
 - 👂  I'm all ears to hear anything.
 - ✨ I like open source because you can learn from your peers & get better.
 - ⚡ Fun fact: You can use underscores along numbers in python ex: `num = 1_000`
