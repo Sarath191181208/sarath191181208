@@ -43,7 +43,7 @@ A passionate young developer located in India 🇮🇳. I'm pursuing B.Tech in c
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=sarath191181208&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath191181208&layout=compact&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff"  display=block height=190 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath191181208&layout=compact&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff&hide=jupyter%20notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
 
